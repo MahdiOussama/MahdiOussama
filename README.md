@@ -44,6 +44,3 @@ Here are the languages and tools I work with the most:
 
 <br>
 
-<div align="center">
-  <i>Always eager to learn and ready for the next challenge. Let's connect!</i>
-</div>
