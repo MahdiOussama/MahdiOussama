@@ -37,9 +37,9 @@ Here are the languages and tools I work with the most:
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahdiOussama&show_icons=true&theme=radical&hide_border=true" alt="MahdiOussama's GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=MahdiOussama&show_icons=true&theme=radical&hide_border=true" alt="MahdiOussama's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiOussama&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=MahdiOussama&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <br>
